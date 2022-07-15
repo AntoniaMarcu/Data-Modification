@@ -1,0 +1,8 @@
+pillow~=8.0.1
+numpy~=1.19.2
+torchbearer~=0.5.3
+torchvision~=0.8.1
+scipy~=1.5.3
+spacy~=2.3.2
+torchtext~=0.8.0
+pandas~=1.1.3

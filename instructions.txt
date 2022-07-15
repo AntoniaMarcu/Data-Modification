@@ -1,0 +1,6 @@
+Code extract for submission #1733 On the Effects of Data Distortion on Model Analysis and Training
+
+The main experiments can be reproduced by running the DI.py and iOcclusion.py python scripts.
+DI.py computes the Data Interference (DI) index and takes as arguments the model path and the local path to the data set.
+iOcclusion.py outputs the iOcclusion measure and takes as arguments an occlusion percentage (float), model and data set paths.
+A complete version of the code that includes all experiments will be released upon acceptance.
